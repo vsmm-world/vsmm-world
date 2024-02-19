@@ -8,7 +8,7 @@ I'm Ravindra Valand, a backend developer with a passion for building scalable an
 
 💬 Ask me about anything related to backend development, databases, or web application architecture.
 
-📫 You can reach me via email at [your.email@example.com](mailto:your.email@example.com).
+📫 You can reach me via email at [vsmmworld@gmail.com](mailto:vsmmworld@gmail.com).
 
 😄 Pronouns: He/Him
 
