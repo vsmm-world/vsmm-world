@@ -6,7 +6,7 @@ I'm Ravindra Valand, a passionate backend developer with a penchant for crafting
 
 💬 Feel free to reach out to me for anything related to backend development, databases, or web application architecture. I'm always eager to exchange ideas and collaborate on exciting projects.
 
-📫 You can drop me a line at [your.email@example.com](mailto:your.email@example.com) to connect or discuss potential opportunities.
+📫 You can drop me a line at [vsmmworld@gmail.com](mailto:vsmmworld@gmail.com) to connect or discuss potential opportunities.
 
 😄 Pronouns: He/Him
 
