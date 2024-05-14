@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/mhz_144" target="blank"><img src="https://img.shields.io/twitter/follow/mhz_144?logo=twitter&style=for-the-badge" alt="mhz_144" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/vsmm-world?tab=repositories](https://github.com/vsmm-world?tab=repositories)
 
 - 💬 Ask me about **Nestjs and React**
