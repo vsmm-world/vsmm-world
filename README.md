@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=50&pause=1000&color=3F97F7&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravindra+Valand;Senior+Full+Stack+Developer;Building+the+Future+of+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=50&pause=1000&color=3F97F7&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravindra+Valand;Full+Stack+Developer;Building+the+Future+of+Web" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,41 +22,41 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer with a strong focus on building scalable and efficient web applications. With expertise in modern technologies and best practices, I strive to create innovative solutions that make a difference.
+I'm a passionate Backend Developer with a strong focus on building REST APIs and server-side applications. With a growing expertise in modern technologies, I strive to create efficient and reliable solutions that make a difference.
 
 ### 🎯 Career Highlights
-- 🏢 Actively seeking opportunities at Google and other tech giants
-- 💡 Developed high-performance applications serving millions of users
-- 🌟 Open source contributor and community builder
+- 💻 1 year of hands-on experience in backend development
+- 🌟 Specialized in building robust REST APIs
 - 📚 Continuous learner and technology enthusiast
+- 💡 Passionate about writing clean, maintainable code
 
 ### 🔭 Current Focus
-- 🌱 Mastering **System Design** and **Distributed Systems**
-- 🚀 Building scalable microservices with **Java Spring Boot** and **NestJS**
-- 🎨 Creating intuitive user experiences with **React** and **Next.js**
-- 📊 Working with **Big Data** and **Cloud Technologies**
+- 🌱 Learning **Spring Boot** and backend architecture
+- 🚀 Building RESTful APIs and microservices
+- 📊 Improving database design and optimization skills
+- 🔍 Exploring best practices in API development
 
 ### 💼 Professional Journey
 - 🎓 Computer Science graduate with focus on Software Engineering
-- 💻 4+ years of experience in full-stack development
-- 🏆 Led multiple successful projects from conception to deployment
-- 👥 Mentored junior developers and conducted technical workshops
+- 💻 1 year of experience in backend development
+- 🏆 Successfully delivered multiple REST API projects
+- 📈 Constantly improving and expanding technical skills
 
 <h2 align="left">🛠️ Technical Arsenal</h2>
 
 ### Frontend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,electron" />
 </div>
 
 ### Backend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,express,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,express" />
 </div>
 
 ### Database & Cloud
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,aws,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,aws,docker,digitalocean" />
 </div>
 
 ### Tools & Technologies
@@ -85,10 +85,10 @@ I'm a passionate Full Stack Developer with a strong focus on building scalable a
   <img src="https://github-profile-trophy.vercel.app/?username=vsmm-world&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-### 💻 Coding Stats
+<!-- ### 💻 Coding Stats
 <div align="center">
   <img src="https://leetcode-stats-six.vercel.app/api?username=ravindravaland&theme=dark" alt="LeetCode Stats" />
-</div>
+</div> -->
 
 <h2 align="left">💖 Support My Work</h2>
 <p><a href="https://www.buymeacoffee.com/ravindravaland"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ravindravaland" /></a></p>
