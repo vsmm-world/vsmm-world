@@ -63,11 +63,34 @@ AI-Enhanced Full Stack Developer based in Ahmedabad, Gujarat, India. Specializin
 ## Connect With Me
 
 <div align="center">
+  <a href="https://twitter.com/mhz_144" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@mhz__144-00FFFF?style=for-the-badge&logo=twitter&logoColor=black&labelColor=000000" alt="Twitter" />
+  </a>
   <a href="https://linkedin.com/in/ravindra-valand" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/17745334" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-Profile-00FFFF?style=for-the-badge&logo=stackoverflow&logoColor=black&labelColor=000000" alt="Stack Overflow" />
+  </a>
+  <a href="https://instagram.com/ravindra_valand" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@ravindra__valand-00FFFF?style=for-the-badge&logo=instagram&logoColor=black&labelColor=000000" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCTAjxkTEJJHOQlF0KZ1iF5Q" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Channel-00FFFF?style=for-the-badge&logo=youtube&logoColor=black&labelColor=000000" alt="YouTube" />
+  </a>
+  <a href="https://www.hackerrank.com/ravindravaland" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00FFFF?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=000000" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/ravindravaland" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-00FFFF?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" alt="LeetCode" />
+  </a>
+</div>
+
+## Support My Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ravindravaland">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-00FFFF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" alt="Buy Me a Coffee" />
   </a>
 </div>
 
